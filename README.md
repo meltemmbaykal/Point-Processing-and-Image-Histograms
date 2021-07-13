@@ -1,6 +1,9 @@
-# Point-Processing-and-Image-Histograms
+# Point-Processing-and-Image-Histograms 
+The programs I use for this homework are;
+-I used MATLAB R2020b program.
+-I used the Visual Studio Code program pre installed for python code.I used Pillow 8.1.2 version and scikit image 0.18.1 version.
 
-Task 1 – Point Processing and Image Histograms
+Task 1 – Point Processing and Image Histograms 
 
 For this task, you are given four input images.
 For each input image, apply the following point processing transformations: 
